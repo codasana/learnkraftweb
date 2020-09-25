@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Manish Sahajwani',
-    photo: '/manish.jpeg',
+    photo: '/manish_x1.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
